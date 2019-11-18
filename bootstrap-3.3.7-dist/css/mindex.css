@@ -1,0 +1,23 @@
+#ma{
+    color: #000;
+}
+
+#san .panel-body{
+    padding: 30px 15px;
+}
+
+
+/*对话框*/
+.wh64{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+#dhk button{
+    margin-bottom: 15px;
+
+}
+
+
+
